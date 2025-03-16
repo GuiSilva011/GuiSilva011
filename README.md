@@ -12,7 +12,7 @@ Contatos\
 ---
 - **Linguagens de Programação:**  
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  - ![JavaScript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>)  
   - ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=.net&logoColor=white)  
   - ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 
