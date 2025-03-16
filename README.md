@@ -2,7 +2,7 @@
 --
 __Sobre mim👨‍💻__
 --
-Cursando análise e desenvolvimentos de sistemas pela FATEC- São Caetano do Sul, amo programação e as possibilidades que ela permite para resolver um mesmo problema de várias formas. Todos os dias busco aprender mais e evoluir como um desenvolvedor competente para qualquer desafio. 
+Me chamo Guilherme Alexandre da Silva,tenho 20 anos e resido em Diadema-SP, no grande ABC paulista. Atualmente estou cursando o 3º semestre de análise e desenvolvimento de sistemas pela FATEC-São Caetano do Sul.
 
 ---
 Contatos\
