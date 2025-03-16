@@ -5,16 +5,18 @@ __Sobre mim👨‍💻__
 Me chamo Guilherme Alexandre da Silva,tenho 20 anos e resido em Diadema-SP, no grande ABC paulista. Atualmente estou cursando o 3º semestre de análise e desenvolvimento de sistemas pela FATEC-São Caetano do Sul.
 
 ---
-Contatos\
-[!Linkedin](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)\
-[Instagram](https://www.instagram.com/gui.st12/)
+**Contatos**  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gui.st12/)  
 ---
 ---
-- **Linguagens de Programação:**  
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
-  - ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=.net&logoColor=white)  
-  - ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
+**Linguagens de Programação:**  
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+- ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=.net&logoColor=white)  
+- ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 
 - **Banco de Dados:**  
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
