@@ -29,6 +29,6 @@ Me chamo Guilherme Alexandre da Silva,tenho 20 anos e resido em Diadema-SP, no g
   
 
 ---
-Atualmente estou começando a aprender sobre a linguagem Java e futuramente quero postar mais projetos que estou desenvolvendo aqui na plataforma do GitHUb🎓
+
 
 📫 Quer falar comigo? Sinta-se à vontade para entrar em contato!  
