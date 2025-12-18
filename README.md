@@ -1,4 +1,4 @@
-# Olá, eu sou Guilherme Alexandre! 
+# Olá, eu sou Guilherme Alexandre!  
 --
 __Sobre mim👨‍💻__
 --
@@ -15,37 +15,37 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no 
 ## 🚀 Tecnologias & Ferramentas
 
 **Linguagens de Programação:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=.net&logoColor=white)  
-![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![VB.NET](https://img.shields.io/badge/. NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 **Banco de Dados:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 **Desenvolvimento Web:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 
 **Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC? style=for-the-badge&logo=terraform&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 **Inteligência Artificial & Machine Learning:**  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-![IA Generativa](https://img.shields.io/badge/-IA%20Generativa-412991?style=flat-square&logo=openai&logoColor=white)  
-![Amazon SageMaker](https://img.shields.io/badge/-SageMaker-FF9900? style=flat-square&logo=amazon-aws&logoColor=white)  
-![Chatbots](https://img.shields.io/badge/-Chatbots-00B2A9?style=flat-square&logo=chatbot&logoColor=white)  
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-74AA9C?style=flat-square&logo=openai&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![IA Generativa](https://img.shields.io/badge/IA_Generativa-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Chatbots](https://img.shields.io/badge/Chatbots-00D9FF?style=for-the-badge&logo=wechat&logoColor=white)  
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-74AA9C?style=for-the-badge&logo=openai&logoColor=white)  
 
 **Controle de Versão & Metodologias:**  
-![Git](https://img.shields.io/badge/-Git-F05032? style=flat-square&logo=git&logoColor=white)  
-![Metodologia Ágil](https://img.shields.io/badge/-Metodologia%20Ágil-0052CC?style=flat-square&logo=jira&logoColor=white)  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+![Metodologia Ágil](https://img.shields.io/badge/Metodologia_Ágil-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)  
 
 ---
 
