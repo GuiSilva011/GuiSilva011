@@ -1,4 +1,4 @@
-# BEM VINDO
+# Ola 👋
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIyejhxenYyaXpsYm41MDdyOWE1Nm51bGlrNng0YWF6a29xc3RuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DeHxdra0ayPQc/giphy.gif" height="200" />
@@ -6,7 +6,7 @@
 
 ---
 
-## Sobre mim 👨‍💻
+## About me👨‍💻
 
 Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no grande ABC paulista.  
 Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas pela FATEC-São Paulo e recentemente finalizei meu estágio onde tive a oportunidade de trabalhar com tecnologias de Cloud, IA e DevOps.
