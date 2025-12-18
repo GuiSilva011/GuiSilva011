@@ -11,42 +11,51 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
 
 ## **Contatos**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gui.st12/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/gui.st12/)  
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
-### **Linguagens de Programação**
+### 💻 Programação
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,dotnet" />
   <img src="https://img.shields.io/badge/-VBA-217346?logo=microsoft-excel&logoColor=white&style=flat" height="50"/>
 </p>
 
-### **Banco de Dados**
+### 📚 Bancos de Dados
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat" height="50"/>
 </p>
 
-### **Desenvolvimento Web**
+### 🌐 Desenvolvimento Web
+#### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+#### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
-### **Cloud & DevOps**
+### ☁ Cloud e DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux" />
 </p>
 
-### **Inteligência Artificial & Machine Learning**
+### 🤖 Inteligência Artificial e Machine Learning
 <p>
   <img src="https://img.shields.io/badge/-AWS%20Bedrock-FF9900?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
   <img src="https://img.shields.io/badge/-Amazon%20SageMaker-232F3E?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
 </p>
 
----
+### 🛠 Controle de Versão e Metodologias
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/-Ágil-0052CC?logo=jira&logoColor=white&style=flat" height="50"/>
+</p>
 
 ## 📊 Minhas métricas
 
