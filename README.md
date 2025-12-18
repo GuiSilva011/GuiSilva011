@@ -7,8 +7,8 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no 
 ---
 **Contatos**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gui. st12/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2? style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gui.st12/)  
 
 ---
 
@@ -38,11 +38,8 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no 
 
 ### **Inteligência Artificial & Machine Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/-IA%20Generativa-412991?logo=openai&logoColor=white&style=flat" height="50"/>
-  <img src="https://img.shields.io/badge/-Amazon%20SageMaker-FF9900?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
-  <img src="https://img.shields.io/badge/-Chatbots-00D9FF? logo=wechat&logoColor=white&style=flat" height="50"/>
-  <img src="https://img.shields.io/badge/-Prompt%20Engineering-74AA9C?logo=openai&logoColor=white&style=flat" height="50"/>
+  <img src="https://img.shields.io/badge/-AWS%20Bedrock-FF9900?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
+  <img src="https://img.shields.io/badge/-Amazon%20SageMaker-232F3E?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
 </p>
 
 ### **Controle de Versão & Metodologias**
@@ -57,7 +54,7 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=GuiSilva011&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=GuiSilva011&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
