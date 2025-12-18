@@ -35,11 +35,15 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
 ---
 
 ### 🌐 Desenvolvimento Web
-
+#### **Frontend**
+<p>
   <img src="https://skillicons.dev/icons?i=html,css" />
-
+</p>
+#### **Backend**
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs" />
-  
+</p>
+
 ---
 
 ### ☁ Cloud e DevOps
@@ -57,15 +61,52 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
 
 ---
 
-## 📊 Minhas métricas
+## 🎓 Certificações  
+
+- [AWS Certified Cloud Practitioner](#)
+
+---
+
+## 🌱 Estudando Atualmente
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,figma" />
+</p>
+
+---
+
+## 🌏 Idiomas  
+
+- 🇧🇷 Português - Nativo  
+- 🇺🇸 Inglês - B1  
+
+---
+
+![Contador de visitantes](https://komarev.com/ghpvc/?username=GuiSilva011&label=Visitantes&color=blue)
+
+---
+
+## 📊 Minhas métricas  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&layout=compact&langs_count=7&theme=tokyonight"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&layout=compact&langs_count=7&theme=tokyonight"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSilva011&theme=tokyonight" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSilva011&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="200" />
 </div>
-
-
