@@ -1,6 +1,6 @@
 # Olá, eu sou Guilherme Alexandre!  👋
 --
-__Sobre mim👨‍💻__
+__About me__
 --
 Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no grande ABC paulista.  Atualmente estou cursando o 5º semestre de análise e desenvolvimento de sistemas pela FATEC-São Paulo e recentemente finalizei meu estágio onde tive a oportunidade de trabalhar com tecnologias de Cloud, IA e DevOps.
 
@@ -17,6 +17,7 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no 
 ### **Linguagens de Programação**
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,dotnet" />
+  <img src="https://img.shields.io/badge/-VBA-217346?logo=microsoft-excel&logoColor=white&style=flat" height="50"/>
 </p>
 
 ### **Banco de Dados**
@@ -41,14 +42,24 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no 
   <img src="https://img.shields.io/badge/-Amazon%20SageMaker-232F3E?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
 </p>
 
+### **Controle de Versão & Metodologias**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/-Metodologia%20Ágil-0052CC?logo=jira&logoColor=white&style=flat" height="50"/>
+</p>
+
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=GuiSilva011&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp. com/?user=GuiSilva011&theme=tokyonight" alt="GuiSilva011" />
+</div>
 
 ---
 
