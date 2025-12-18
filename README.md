@@ -1,6 +1,6 @@
 # BEM VINDO AO MEU PERFIL ! 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRraXh3YjgyMTRpdnQ0dnN1bXpmeGYxaWFrODJiY3o2cDYzZndhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eHyl5MMV68oM/giphy.gif" height="200" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIyejhxenYyaXpsYm41MDdyOWE1Nm51bGlrNng0YWF6a29xc3RuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DeHxdra0ayPQc/giphy.gif" height="200" />
 </div>
 
 ---
