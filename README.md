@@ -66,13 +66,13 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
 
 ## 🎓 Certificações  
 
-- [AWS Certified Cloud Practitioner](#)
+- ![AWS Cloud Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner%20(CLF%20C01)-232F3E?logo=amazon-aws&logoColor=FF9900&style=flat)
 
 ---
 
 ## 🌱 Estudando Atualmente
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,figma" />
+  Por enquanto to de férias ZZZZZzzzzzzzzzzz...
 </p>
 
 ---
