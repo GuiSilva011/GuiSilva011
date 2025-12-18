@@ -2,7 +2,7 @@
 --
 __Sobre mim👨‍💻__
 --
-Me chamo Guilherme Alexandre da Silva,tenho 20 anos e resido em Diadema-SP, no grande ABC paulista. Atualmente estou cursando o 4º semestre de análise e desenvolvimento de sistemas pela FATEC-São Caetano do Sul.
+Me chamo Guilherme Alexandre da Silva,tenho 21 anos e resido em Diadema-SP, no grande ABC paulista. Atualmente estou cursando o 5º semestre de análise e desenvolvimento de sistemas pela FATEC-São Caetano do Sul.
 
 ---
 **Contatos**  
