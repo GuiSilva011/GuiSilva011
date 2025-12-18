@@ -1,6 +1,6 @@
 # Olá, eu sou Guilherme Alexandre!  👋
 --
-__About me__
+__Sobre mim👨‍💻__
 --
 Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no grande ABC paulista.  Atualmente estou cursando o 5º semestre de análise e desenvolvimento de sistemas pela FATEC-São Paulo e recentemente finalizei meu estágio onde tive a oportunidade de trabalhar com tecnologias de Cloud, IA e DevOps.
 
@@ -58,9 +58,9 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp. com/?user=GuiSilva011&theme=tokyonight" alt="GuiSilva011" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSilva011&theme=tokyonight" alt="GuiSilva011" />
 </div>
 
 ---
 
-📫 Quer falar comigo?  Sinta-se à vontade para entrar em contato!   
+📫 Quer falar comigo?  Sinta-se à vontade para entrar em contato!
