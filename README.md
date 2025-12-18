@@ -1,13 +1,17 @@
-# Olá, eu sou Guilherme Alexandre!  👋
---
-__Sobre mim👨‍💻__
---
-Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no grande ABC paulista.  Atualmente estou cursando o 5º semestre de análise e desenvolvimento de sistemas pela FATEC-São Paulo e recentemente finalizei meu estágio onde tive a oportunidade de trabalhar com tecnologias de Cloud, IA e DevOps.
+# Olá, eu sou Guilherme Alexandre! 👋
 
 ---
-**Contatos**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2? style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)  
+## Sobre mim 👨‍💻
+
+Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no grande ABC paulista.  
+Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas pela FATEC-São Paulo e recentemente finalizei meu estágio onde tive a oportunidade de trabalhar com tecnologias de Cloud, IA e DevOps.
+
+---
+
+## **Contatos**  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gui.st12/)  
 
 ---
@@ -54,13 +58,13 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=GuiSilva011&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSilva011&theme=tokyonight" alt="GuiSilva011" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSilva011&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-📫 Quer falar comigo?  Sinta-se à vontade para entrar em contato!
+📫 Quer falar comigo? Sinta-se à vontade para entrar em contato!
