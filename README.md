@@ -46,15 +46,9 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
   <img src="https://img.shields.io/badge/-Amazon%20SageMaker-232F3E?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
 </p>
 
-### **Controle de Versão & Metodologias**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://img.shields.io/badge/-Metodologia%20Ágil-0052CC?logo=jira&logoColor=white&style=flat" height="50"/>
-</p>
-
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas métricas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
