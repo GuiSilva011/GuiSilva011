@@ -24,6 +24,8 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
   <img src="https://img.shields.io/badge/-VBA-217346?logo=microsoft-excel&logoColor=white&style=flat" height="50"/>
 </p>
 
+---
+
 ### 📚 Bancos de Dados
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
@@ -31,14 +33,12 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
 </p>
 
 ### 🌐 Desenvolvimento Web
-#### **Frontend**
-<p>
+
   <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-#### **Backend**
-<p>
+
   <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+  
+---
 
 ### ☁ Cloud e DevOps
 <p>
@@ -51,6 +51,7 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
   <img src="https://img.shields.io/badge/-Amazon%20SageMaker-232F3E?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
 </p>
 
+---
 
 ## 📊 Minhas métricas
 
