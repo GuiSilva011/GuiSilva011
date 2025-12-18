@@ -32,6 +32,8 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat" height="50"/>
 </p>
 
+---
+
 ### 🌐 Desenvolvimento Web
 
   <img src="https://skillicons.dev/icons?i=html,css" />
@@ -44,6 +46,8 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux" />
 </p>
+
+---
 
 ### 🤖 Inteligência Artificial e Machine Learning
 <p>
@@ -64,5 +68,4 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSilva011&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
----
 
