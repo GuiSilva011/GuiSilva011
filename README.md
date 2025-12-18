@@ -7,6 +7,9 @@
 Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no grande ABC paulista.  
 Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas pela FATEC-São Paulo e recentemente finalizei meu estágio onde tive a oportunidade de trabalhar com tecnologias de Cloud, IA e DevOps.
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRraXh3YjgyMTRpdnQ0dnN1bXpmeGYxaWFrODJiY3o2cDYzZndhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eHyl5MMV68oM/giphy.gif" height="200" />
+</div>
 ---
 
 ## **Contatos**  
@@ -107,6 +110,4 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="200" />
-</div>
+
