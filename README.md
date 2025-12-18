@@ -51,11 +51,6 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
   <img src="https://img.shields.io/badge/-Amazon%20SageMaker-232F3E?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
 </p>
 
-### 🛠 Controle de Versão e Metodologias
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://img.shields.io/badge/-Ágil-0052CC?logo=jira&logoColor=white&style=flat" height="50"/>
-</p>
 
 ## 📊 Minhas métricas
 
@@ -70,4 +65,3 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
 
 ---
 
-📫 Quer falar comigo? Sinta-se à vontade para entrar em contato!
