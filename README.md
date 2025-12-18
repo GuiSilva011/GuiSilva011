@@ -17,7 +17,6 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no 
 ### **Linguagens de Programação**
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,dotnet" />
-  <img src="https://img.shields.io/badge/-VBA-217346?logo=microsoft-excel&logoColor=white&style=flat" height="50"/>
 </p>
 
 ### **Banco de Dados**
@@ -40,12 +39,6 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e resido em Diadema-SP, no 
 <p>
   <img src="https://img.shields.io/badge/-AWS%20Bedrock-FF9900?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
   <img src="https://img.shields.io/badge/-Amazon%20SageMaker-232F3E?logo=amazon-aws&logoColor=white&style=flat" height="50"/>
-</p>
-
-### **Controle de Versão & Metodologias**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://img.shields.io/badge/-Metodologia%20Ágil-0052CC?logo=jira&logoColor=white&style=flat" height="50"/>
 </p>
 
 ---
