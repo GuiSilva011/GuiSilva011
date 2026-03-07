@@ -1,5 +1,4 @@
 # Seja bem-vindo
----
 
 ## About me👨‍💻
 
@@ -11,7 +10,6 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
 ## **Contatos**  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/gui.st12/)  
 
 ---
 
