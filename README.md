@@ -17,8 +17,7 @@ Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistem
 
 ### 💻 Programação
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,dotnet" />
-  <img src="https://img.shields.io/badge/-VBA-217346?logo=microsoft-excel&logoColor=white&style=flat" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
 ---
