@@ -21,11 +21,11 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo
             src="https://custom-icon-badges.demolab.com/github/followers/GuiSilva011?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://instagram.com/https://www.instagram.com/guittps/" target="_blank">
-         <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=instagram" width="30px"/>
+    <a href="https://www.instagram.com/guittps/" target="_blank">
+        <img src="https://cdn.simpleicons.org/instagram" width="30" />
     </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px"/>
+    <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/?skipRedirect=true" target="_blank">
+        <img src="https://cdn.simpleicons.org/linkedin" width="30" />
     </a>
 </p>
 
