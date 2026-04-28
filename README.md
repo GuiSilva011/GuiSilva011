@@ -168,15 +168,3 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo
 
 <p>
 
----
-
-## 🌐 Meus contatos e redes sociais
-<p>
-    ✉️ Email - guilherne1207@gmail.com
-    <a href="https://www.instagram.com/guittps/" target="_blank">
-         <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
-    </a>
-    <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/?skipRedirect=true" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-    </a>
-</p>
