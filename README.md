@@ -16,6 +16,8 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo
 
 </p>
 
+---
+
 <p>
      <a href="https://github.com/GuiSilva011?tab=repositories&sort=stargazers">
         <img 
