@@ -4,9 +4,15 @@
 **`Desenvolvedor `**
 
 Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Antônio Russo.
-Meus contatos Intagram 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]"[Guittps](https://www.instagram.com/guittps/)"
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)".
+
+
+<a href="https://instagram.com/https://www.instagram.com/guittps/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30px"/>
+</a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px"/>
+</a>
 
 
 <p>
