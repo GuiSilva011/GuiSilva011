@@ -4,6 +4,7 @@
 **`Desenvolvedor `**
 
 Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Antônio Russo.
+Caso queira se conectar ao meu "[Linkedin](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)"
 
 <p>
      <a href="https://github.com/GuiSilva011?tab=repositories&sort=stargazers">
@@ -19,12 +20,6 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/GuiSilva011?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>
-    <a>
-      <img 
-        alt="Instagram" 
-        title="Me siga no instagram" 
-        src = "https://custom-icon-badges.demolab.com/badge/Instagram/https://www.instagram.com/guittps/-E4405F?logo=instagram&logoColor=white"> 
     </a>
 </p>
 
