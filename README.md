@@ -1,10 +1,20 @@
 
-# 👩🏻‍💻 Guilherme Alexandre da Silva
+# 👨‍💻  Guilherme Alexandre da Silva
 
 **`Desenvolvedor `**
 
 Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Antônio Russo.
 
+## 🌐 Meus contatos e redes sociais
+<p>
+    <a href="https://www.instagram.com/guittps/" target="_blank">
+         <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
+    </a>
+    <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/?skipRedirect=true" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+    </a>
+
+</p>
 
 <p>
      <a href="https://github.com/GuiSilva011?tab=repositories&sort=stargazers">
@@ -20,12 +30,6 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/GuiSilva011?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>
-    <a href="https://www.instagram.com/guittps/" target="_blank">
-         <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
-    </a>
-    <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/?skipRedirect=true" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
     </a>
 </p>
 
