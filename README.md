@@ -52,14 +52,7 @@ Meus contatos Intagram "[Guittps](https://www.instagram.com/guittps/)", Linkedin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
- />
+
 <img 
     align="left" 
     alt="React"
@@ -78,6 +71,15 @@ Meus contatos Intagram "[Guittps](https://www.instagram.com/guittps/)", Linkedin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
+
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+ />
 
 <img 
     align="left" 
@@ -111,14 +113,7 @@ Meus contatos Intagram "[Guittps](https://www.instagram.com/guittps/)", Linkedin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
-/>
+
 <img 
     align="left" 
     alt="Jupyter" 
@@ -143,34 +138,27 @@ Meus contatos Intagram "[Guittps](https://www.instagram.com/guittps/)", Linkedin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="Postman" 
     title="Postman"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" 
-
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
-          
 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right:10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
