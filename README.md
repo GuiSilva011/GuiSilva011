@@ -168,6 +168,8 @@ Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo
 
 <p>
 
+---
+
 ## 🌐 Meus contatos e redes sociais
 <p>
     ✉️ Email - guilherne1207@gmail.com
