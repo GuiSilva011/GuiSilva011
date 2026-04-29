@@ -1,7 +1,7 @@
 
 # 👨‍💻  Guilherme Alexandre da Silva
 
-**`Data & IA `**
+**`Sempre fazendo alguma coisa `**
 
 
 Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Antônio Russo.
