@@ -4,7 +4,9 @@
 
 
 
-Me chamo Guilherme Alexandre da Silva, tenho 21 anos e sou natural de São Paulo.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Antônio Russo.
+Guilherme Alexandre da Silva 21 anos
+Natural de São Paulo.
+Análise e Desenvolvimento de Sistemas na Fatec Antônio Russo.
 Caso tenha interesse em se conectar ao meu "[Linkedin](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)". 
 <br/>
 Meu email profissional para contato é 📧guilherne1208@gmail.com
