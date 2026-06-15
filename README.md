@@ -158,18 +158,20 @@ E-MAIL para contato - 📧guilherne1208@gmail.com
 ---
 
 ###   Status 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8)
-</a>
+<p>
+     <a>
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical)
+     <a/>
+</p>
+<p>
+   <a>
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8)
+     </a> 
+</p>
 
 ---
 
 ###   Principais repositórios
-<a href="https://github.com/GuiSilva011/VZ-CONNECT">
-  <img align="center" src="https://github.com/GuiSilva011/VZ-CONNECT/api/pin/?username=GuiSilva011&repo=VZ-CONNECT" />
-</a>
-<a href="https://github.com/GuiSilva011/MotorMind-">
-  <img align="center" src="https://github.com/GuiSilva011/MotorMind-/api/pin/?username=GuiSilva011&repo=MotorMind-" />
-</a>
+
 <p>
 
