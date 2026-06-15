@@ -155,18 +155,12 @@ E-MAIL para contato - 📧guilherne1208@gmail.com
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
----
-
 ###   Status 
 <p>
-     <a>
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical)
-     <a/>
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical) 
 </p>
 <p>
-   <a>
      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8)
-     </a> 
 </p>
 
 ---
