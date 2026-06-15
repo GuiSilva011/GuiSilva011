@@ -1,18 +1,18 @@
 
-# 👨‍💻  Guilherme Alexandre da Silva
+# 👨‍💻  GuiSilva011
 
 
 
 
-Guilherme Alexandre da Silva - 21y
+Guilherme Alexandre da Silva 
 <br/>
-Natural de São Paulo
+São Paulo
 <br/>
-Análise e Desenvolvimento de Sistemas na Fatec Antônio Russo.
+Análise e Desenvolvimento de Sistemas - Fatec Antônio Russo.
 <br/>
-Caso tenha interesse em se conectar ao meu "[Linkedin](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)". 
+"[Linkedin](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)"
 <br/>
-Meu email profissional para contato é 📧guilherne1208@gmail.com
+E-MAIL para contato - 📧guilherne1208@gmail.com
 
 
 <p>
@@ -154,8 +154,11 @@ Meu email profissional para contato é 📧guilherne1208@gmail.com
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
-
 <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical)
 <br/>
+<a href="https://github.com/GuiSilva011/VZ-CONNECT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiSilva011a&repo=github-readme-stats" />
+</a>
 <p>
 
