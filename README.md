@@ -1,17 +1,8 @@
+<a href="https://github.com/GuiSilva011" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="22" align="center" alt="GitHub" />  <strong>GuiSilva011</strong> </a>
 
-# 👨‍💻  GuiSilva011
-
-
-Guilherme Alexandre da Silva 
-<br/>
-São Paulo
-<br/>
-Análise e Desenvolvimento de Sistemas - Fatec Antônio Russo.
-<br/>
-"[Linkedin](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)"
-<br/>
-E-MAIL para contato - 📧guilherne1208@gmail.com
-
+##  Guilherme Alexandre da Silva 
+📍 **São Paulo, Brasil** 
+🎓 **Análise e Desenvolvimento de Sistemas Fatec Antônio Russo**  
 <p>
      <a href="https://github.com/GuiSilva011?tab=repositories&sort=stargazers">
         <img 
@@ -32,6 +23,7 @@ E-MAIL para contato - 📧guilherne1208@gmail.com
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 
 <img 
     align="left" 
@@ -152,15 +144,26 @@ E-MAIL para contato - 📧guilherne1208@gmail.com
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
+<br>
+
+---
+
+
+
+### Status
+
 <p>
-###   Status 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical)  </a>
+
 </p>
 
 ---
 
-###   Principais repositórios
+###  Repositórios
 
-<p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiSilva011&repo=VZ-CONNECT)](https://github.com/GuiSilva011/VZ-CONNECT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiSilva011&repo=MotorMind-)](https://github.com/GuiSilva011/MotorMind-)
+
 
