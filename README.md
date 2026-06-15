@@ -158,10 +158,10 @@ E-MAIL para contato - 📧guilherne1208@gmail.com
 ---
 
 ###   Status 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/GuiSilva011/GuiSilva011">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiSilva011" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/GuiSilva011/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
