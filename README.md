@@ -2,6 +2,7 @@
 
 ##  Guilherme Alexandre da Silva 
 📍 **São Paulo, Brasil** 
+
 🎓 **Análise e Desenvolvimento de Sistemas Fatec Antônio Russo**  
 <p>
      <a href="https://github.com/GuiSilva011?tab=repositories&sort=stargazers">
@@ -154,7 +155,7 @@
 
 <p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical)  </a>
 
 </p>
@@ -165,5 +166,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiSilva011&repo=VZ-CONNECT)](https://github.com/GuiSilva011/VZ-CONNECT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiSilva011&repo=MotorMind-)](https://github.com/GuiSilva011/MotorMind-)
-
-
