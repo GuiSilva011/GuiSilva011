@@ -154,11 +154,25 @@ E-MAIL para contato - 📧guilherne1208@gmail.com
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical)
-<br/>
+
+---
+
+###   Status 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+---
+
+###   Principais repositórios
 <a href="https://github.com/GuiSilva011/VZ-CONNECT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiSilva011a&repo=github-readme-stats" />
+  <img align="center" src="https://github.com/GuiSilva011/VZ-CONNECT/api/pin/?username=GuiSilva011&repo=VZ-CONNECT" />
+</a>
+<a href="https://github.com/GuiSilva011/MotorMind-">
+  <img align="center" src="https://github.com/GuiSilva011/MotorMind-/api/pin/?username=GuiSilva011&repo=MotorMind-" />
 </a>
 <p>
 
