@@ -2,8 +2,6 @@
 # 👨‍💻  GuiSilva011
 
 
-
-
 Guilherme Alexandre da Silva 
 <br/>
 São Paulo
@@ -13,7 +11,6 @@ Análise e Desenvolvimento de Sistemas - Fatec Antônio Russo.
 "[Linkedin](https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/)"
 <br/>
 E-MAIL para contato - 📧guilherne1208@gmail.com
-
 
 <p>
      <a href="https://github.com/GuiSilva011?tab=repositories&sort=stargazers">
@@ -155,12 +152,10 @@ E-MAIL para contato - 📧guilherne1208@gmail.com
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
+<p>
 ###   Status 
-<p>
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical) 
-</p>
-<p>
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8)
 </p>
 
 ---
