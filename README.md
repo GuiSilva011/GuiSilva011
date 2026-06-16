@@ -1,8 +1,6 @@
-<a href="https://github.com/GuiSilva011" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="22" align="center" alt="GitHub" />  <strong>GuiSilva011</strong> </a>
+# 🧑‍💻 Guilherme Silva
 
-## About me
-
-👦 **Guilherme Alexandre da Silva**
+**`Desenvolvedor FullStack`**
 
 📍 **São Paulo, Brasil** 
 
