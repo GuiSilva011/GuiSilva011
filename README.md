@@ -1,10 +1,12 @@
-# 🧑‍💻 Guilherme Silva
+# 🧑‍💻 Guilherme Silva - **`guilherme.slv1207@gmail.com`**
 
 **`Desenvolvedor FullStack`**
 
 📍 **São Paulo, Brasil** 
 
 🎓 **Análise e Desenvolvimento de Sistemas Fatec Antônio Russo**  
+
+
 <p>
      <a href="https://github.com/GuiSilva011?tab=repositories&sort=stargazers">
         <img 
