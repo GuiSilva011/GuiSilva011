@@ -1,4 +1,4 @@
-# 🧑‍💻 Guilherme Silva - **`guilherme.slv1207@gmail.com`**
+# 🧑‍💻 Guilherme Silva - 
 
 **`Desenvolvedor FullStack`**
 
@@ -6,7 +6,7 @@
 
 🎓 **Análise e Desenvolvimento de Sistemas Fatec Antônio Russo**  
 
-
+ Email para contato - **`guilherme.slv1207@gmail.com`**
 <p>
      <a href="https://github.com/GuiSilva011?tab=repositories&sort=stargazers">
         <img 
