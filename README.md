@@ -148,24 +148,3 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
-<br>
-
----
-
-
-
-### Status
-
-<p>
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSilva011&show_icons=true&theme=radical)  </a>
-
-</p>
-
----
-
-###  Repositórios
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiSilva011&repo=VZ-CONNECT)](https://github.com/GuiSilva011/VZ-CONNECT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiSilva011&repo=MotorMind-)](https://github.com/GuiSilva011/MotorMind-)
