@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Guilherme%20Silva&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DESENVOLVEDOR%20WEB&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Guilherme%20Silva&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=GuiSilva011">
@@ -6,16 +6,20 @@
   </a>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRkN3VwaGNiazI0YzF1Y2VzdmFqajluN3QzMnJmd3FjaG8wMTQ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNNy7Xs47vEtScRWOI/giphy.gif" alt="Banner" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzEwbHo2d2c2YmQ4eWZzNHNrd2w5ZGZub3pxZmdtZG53c2ozaDc0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vP5gXvSXJ2olG/giphy.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 🎓 Análise e Desenvolvimento de Sistemas Fatec Antônio Russo
+## 📌 Sobre mim
+- Nome: Guilherme Silva
+- Idade: 22y
+- Faculdade: 🎓 Análise e Desenvolvimento de Sistemas Fatec Antônio Russo
 
 
-## 🧠 My Focus Areas
-- Desenvolvimento web
-- IA generativa
-- Cloud
+
+## 🧠 Areas de interesse
+🌐 Desenvolvimento Web — Criação de aplicações modernas, responsivas e escaláveis.
+☁️ Cloud Computing — Arquiteturas em nuvem, serviços cloud e deploy de aplicações.
+⚙️ DevOps — Automação de processos, integração e entrega contínua, containers e boas práticas de infraestrutura.
+🤖 Inteligência Artificial Generativa — Desenvolvimento de soluções com IA, uso de modelos generativos e integração de inteligência artificial em aplicações e serviços.
 
 
 ## 📊 GitHub Stats & Trophies
@@ -59,6 +63,7 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
 </p>
@@ -67,13 +72,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
 
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
