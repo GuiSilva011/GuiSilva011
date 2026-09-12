@@ -87,11 +87,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/GuiSilva011">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuiSilva011&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ## 🔗 Redes de contato
 <p align="center">
