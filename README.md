@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzEwbHo2d2c2YmQ4eWZzNHNrd2w5ZGZub3pxZmdtZG53c2ozaDc0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vP5gXvSXJ2olG/giphy.gif" alt="Banner" width="100%" />
-
 ## 📌 Sobre mim
 - Nome: Guilherme Silva
 - Idade: 22y
@@ -16,10 +14,10 @@
 
 
 ## 🧠 Areas de interesse
-🌐 Desenvolvimento Web — Criação de aplicações modernas, responsivas e escaláveis.
-☁️ Cloud Computing — Arquiteturas em nuvem, serviços cloud e deploy de aplicações.
-⚙️ DevOps — Automação de processos, integração e entrega contínua, containers e boas práticas de infraestrutura.
-🤖 Inteligência Artificial Generativa — Desenvolvimento de soluções com IA, uso de modelos generativos e integração de inteligência artificial em aplicações e serviços.
+- Desenvolvimento Web 
+- Cloud Computing 
+- DevOps 
+- Inteligência Artificial Generativa 
 
 
 ## 📊 GitHub Stats & Trophies
