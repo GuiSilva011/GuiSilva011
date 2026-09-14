@@ -13,6 +13,20 @@
 
 ---
 
+## 🔗 Redes de contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:guilherne1207@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+---
+
 ## 🧠 Áreas de interesse
 
 - Desenvolvimento Web
@@ -94,21 +108,7 @@
   <img src="https://stats.pphat.top/languages?username=GuiSilva011" alt="Linguagens mais utilizadas" />
 </p>
 
----
 
-## 🔗 Redes de contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:guilherne1207@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
