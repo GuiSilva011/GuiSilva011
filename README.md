@@ -104,7 +104,7 @@
   </a>&nbsp;&nbsp;
 
   <a href="mailto:guilherne1207@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="90" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="50" />
   </a>
 </p>
 
