@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+    <img src="devicon-linkedin-plain-wordmark colored" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
 
   <a href="mailto:guilherne1207@gmail.com">
