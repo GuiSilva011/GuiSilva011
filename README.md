@@ -100,7 +100,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="60"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="50" />
   </a>&nbsp;&nbsp;
 
   <a href="mailto:guilherne1207@gmail.com">
