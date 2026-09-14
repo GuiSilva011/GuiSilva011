@@ -9,7 +9,7 @@
 
 ## 📌 Sobre mim
 
-Olá! Sou **Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Antônio Russo.
+**Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Antônio Russo.
 
 ---
 
@@ -117,4 +117,7 @@ Olá! Sou **Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sist
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
+![Alt text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhxdDRkZDVzcHV4MGcxMWM4d2xtdmFpcHE2a2EybGdtdWJzc3o5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNNy7Xs47vEtScRWOI/giphy.gif)
+
 
