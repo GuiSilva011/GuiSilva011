@@ -17,11 +17,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="40"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="90"  />
   </a>&nbsp;&nbsp;
 
   <a href="mailto:guilherne1207@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="90" />
   </a>
 </p>
 
