@@ -11,21 +11,7 @@
 
 **Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Antônio Russo.
 
----
 
-## 🔗 Redes de contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="90"  />
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:guilherne1207@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="90" />
-  </a>
-</p>
-
----
 
 ## 🧠 Áreas de interesse
 
@@ -108,6 +94,21 @@
   <img src="https://stats.pphat.top/languages?username=GuiSilva011" alt="Linguagens mais utilizadas" />
 </p>
 
+---
+
+## 🔗 Redes de contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="90"  />
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:guilherne1207@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="90" />
+  </a>
+</p>
+
+---
 
 
 <p align="center">
