@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Guilherme%20Silva&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Guilherme%20Silva&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=GuiSilva011">
@@ -7,92 +7,108 @@
   </a>
 </p>
 
-## 📌 Sobre mim
-- Nome: Guilherme Silva
-- Idade: 22y
-- Faculdade: 🎓 Análise e Desenvolvimento de Sistemas Fatec Antônio Russo
+## 👨‍💻 Sobre mim
 
+Olá! Sou **Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Antônio Russo.
 
+---
 
-## 🧠 Areas de interesse
-- Desenvolvimento Web 
-- Cloud Computing 
-- DevOps 
-- Inteligência Artificial Generativa 
+## 🧠 Áreas de interesse
 
+- 🌐 Desenvolvimento Web
+- ☁️ Cloud Computing
+- ⚙️ DevOps
+- 🤖 Inteligência Artificial Generativa
+- 🔗 Integração de IA em serviços e aplicações
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/GuiSilva011">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuiSilva011&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="GuiSilva011's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=GuiSilva011&theme=radical&hide_border=true&cache_seconds=86400" alt="GuiSilva011's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=GuiSilva011&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Guilherme Silva's GitHub Trophies" />
-</p>
+---
 
-![Top language](https://stats.pphat.top/languages?username=GuiSilva011)
-<br/>
+## 🛠️ Tecnologias e ferramentas
 
-
-## 🛠️ Languages & Tools
+### 💻 Linguagens
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-
 </p>
+
+### 🎨 Front-End
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 </p>
+
+### ⚙️ Back-End
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
-
 </p>
 
-<h3 align="center">Database</h3>
+### 🗄️ Bancos de dados
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
 </p>
+
+### ☁️ Cloud, DevOps e infraestrutura
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
-
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" />
 </p>
 
+### 🔧 Ferramentas
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 </p>
 
+---
 
-## 🔗 Redes de contato
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/GuiSilva011">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuiSilva011&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="GuiSilva011's GitHub Stats" />
+  </a>
+
+  <img src="https://streak-stats.demolab.com/?user=GuiSilva011&theme=radical&hide_border=true&cache_seconds=86400" alt="GuiSilva011's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=GuiSilva011&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Guilherme Silva's GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=GuiSilva011" alt="Linguagens mais utilizadas" />
+</p>
+
+---
+
+## 🤝 Contato
+
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
+
   <a href="mailto:guilherne1207@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
