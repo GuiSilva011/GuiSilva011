@@ -1,4 +1,4 @@
-
+```md
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Guilherme%20Silva&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-## 👨‍💻 Sobre mim
+## 📌 Sobre mim
 
 Olá! Sou **Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Antônio Russo.
 
@@ -15,24 +15,24 @@ Olá! Sou **Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sist
 
 ## 🧠 Áreas de interesse
 
-- 🌐 Desenvolvimento Web
-- ☁️ Cloud Computing
-- ⚙️ DevOps
-- 🤖 Inteligência Artificial Generativa
-- 🔗 Integração de IA em serviços e aplicações
+- Desenvolvimento Web
+- Cloud Computing
+- DevOps
+- Inteligência Artificial Generativa
+- Integração de IA em serviços e aplicações
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens
+<h3 align="center"> Linguagens</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
 </p>
 
-### 🎨 Front-End
+<h3 align="center"> Front-End</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
@@ -43,7 +43,7 @@ Olá! Sou **Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sist
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 </p>
 
-### ⚙️ Back-End
+<h3 align="center"> Back-End</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
@@ -51,14 +51,14 @@ Olá! Sou **Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sist
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
 </p>
 
-### 🗄️ Bancos de dados
+<h3 align="center"> Banco de Dados</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 </p>
 
-### ☁️ Cloud, DevOps e infraestrutura
+<h3 align="center"> Cloud, DevOps e Infraestrutura</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
@@ -66,7 +66,7 @@ Olá! Sou **Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sist
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" />
 </p>
 
-### 🔧 Ferramentas
+<h3 align="center">Ferramentas</h3>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
@@ -96,7 +96,7 @@ Olá! Sou **Guilherme Silva**, estudante de **Análise e Desenvolvimento de Sist
 
 ---
 
-## 🤝 Contato
+## 🔗 Redes de contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/">
