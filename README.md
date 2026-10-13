@@ -1,4 +1,3 @@
-
 <!-- Perfil: GuiSilva011 | Identidade: preto, branco e tons de cinza -->
 
 <p align="center">
@@ -167,3 +166,141 @@ Este perfil reúne meus projetos e as tecnologias que uso no desenvolvimento.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=111111&amp;height=70&amp;text=GUILHERME%20SILVA%20%2F%20FREELANCER&amp;fontSize=15&amp;fontColor=FFFFFF" alt="Guilherme Silva / Freelancer" width="100%" />
 </p>
+
+<!--
+CONFIGURAÇÃO DOS CARDS E DA SNAKE CONTRIBUTION
+
+Este comentário não aparece no README renderizado.
+
+1. Salve este README.md na raiz do repositório público GuiSilva011/GuiSilva011.
+2. No mesmo repositório, crie .github/workflows/profile.yml.
+3. Copie apenas o YAML abaixo, de "name:" até a última linha, para esse arquivo.
+4. Abra Actions > Atualizar perfil > Run workflow.
+
+O workflow cria a branch output e atualiza os SVGs diariamente.
+A cobra e os cards aparecem após a primeira execução bem-sucedida.
+Não é necessário criar um token: GITHUB_TOKEN é fornecido pelo GitHub.
+Os serviços de cards podem ter limites de uso ou indisponibilidade.
+Se você mudar seu username, substitua GuiSilva011 neste README.
+
+name: Atualizar perfil
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Gerar Snake Contribution
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=%23111111&color_dots=%23ebedf0,%23d5d5d5,%23aaaaaa,%23777777,%23444444
+            dist/snake-dark.svg?palette=github-dark&color_snake=%23ffffff&color_dots=%23161616,%23303030,%23585858,%23888888,%23c5c5c5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar Streak
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          path: dist/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: user=${{ github.repository_owner }}&theme=dark&locale=pt_BR&background=111111&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BBBBBB&dates=999999&stroke=444444&disable_animations=true
+
+      - name: Gerar cards em preto e branco
+        env:
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: |
+          python3 - <<'PY'
+          import os
+          from pathlib import Path
+          from urllib.parse import urlencode
+          from urllib.request import urlopen
+          import xml.etree.ElementTree as ET
+
+          user = os.environ["PROFILE_USERNAME"]
+          common = {
+              "username": user, "bg_color": "111111",
+              "title_color": "FFFFFF", "text_color": "BBBBBB",
+              "icon_color": "FFFFFF", "hide_border": "true",
+              "border_radius": "6", "locale": "pt-br",
+              "disable_animations": "true",
+          }
+          stats_base = "https://github-readme-stats.vercel.app/api"
+          cards = {
+              "stats.svg": stats_base + "?" + urlencode({
+                  **common, "show_icons": "true", "hide_rank": "true",
+                  "card_width": "460", "custom_title": "GitHub Stats",
+              }),
+              "languages.svg": stats_base + "/top-langs/?" + urlencode({
+                  **common, "layout": "compact", "langs_count": "6",
+                  "card_width": "460", "custom_title": "Top Languages",
+              }),
+              "trophies.svg": "https://github-profile-trophy-orcin-eta.vercel.app/?" + urlencode({
+                  "username": user, "theme": "onestar",
+                  "column": "6", "row": "1", "margin-w": "12",
+                  "no-frame": "true",
+              }),
+          }
+
+          ns = "http://www.w3.org/2000/svg"
+          ET.register_namespace("", ns)
+          Path("dist").mkdir(exist_ok=True)
+
+          for filename, url in cards.items():
+              with urlopen(url, timeout=45) as response:
+                  root = ET.fromstring(response.read())
+              if root.tag != f"{{{ns}}}svg":
+                  raise ValueError(f"Resposta inválida para {filename}")
+
+              definitions = ET.Element(f"{{{ns}}}defs")
+              effect = ET.SubElement(definitions, f"{{{ns}}}filter", {
+                  "id": "profile-monochrome",
+                  "color-interpolation-filters": "sRGB",
+                  "x": "-5%", "y": "-5%", "width": "110%", "height": "110%",
+              })
+              ET.SubElement(effect, f"{{{ns}}}feColorMatrix", {
+                  "type": "saturate", "values": "0",
+              })
+              group = ET.Element(f"{{{ns}}}g", {
+                  "filter": "url(#profile-monochrome)",
+              })
+              for child in list(root):
+                  root.remove(child)
+                  group.append(child)
+              root.append(definitions)
+              root.append(group)
+              static_style = ET.SubElement(root, f"{{{ns}}}style")
+              static_style.text = ".stagger { opacity: 1 !important; animation: none !important; }"
+              ET.ElementTree(root).write(
+                  Path("dist") / filename, encoding="utf-8",
+                  xml_declaration=True,
+              )
+          PY
+
+      - name: Publicar SVGs na branch output
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+          commit_message: Atualizar recursos do perfil
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
