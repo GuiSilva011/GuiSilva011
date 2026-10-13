@@ -20,8 +20,6 @@
   &nbsp; · &nbsp;
   <a href="#projetos">Projetos</a>
   &nbsp; · &nbsp;
-  <a href="#github">GitHub</a>
-  &nbsp; · &nbsp;
   <a href="#contato">Contato</a>
 </p>
 
