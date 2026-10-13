@@ -134,12 +134,10 @@ GitHub
 
 
 <a id="contato"></a>
-Contato
 Tem um projeto em mente? Podemos conversar pelo LinkedIn.
 <p>
   <a href="https://www.linkedin.com/in/guilherme-alexandre-da-silva-7105a2243/">LinkedIn ↗</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/GuiSilva011">GitHub ↗</a>
 </p>
 
 <!-- Ícones originais: Devicon — https://devicon.dev/ -->
