@@ -94,22 +94,6 @@ Uso React, Node.js e Python, além de AWS, Linux e Docker para a infraestrutura.
 
 <p align="center"><sub>Git · GitHub · Postman</sub></p>
 
-
-<a id="projetos"></a>
-Projeto em destaque
-<table>
-  <tr>
-    <td width="850">
-      <sub>SITE INSTITUCIONAL</sub>
-      <h3><a href="https://vzconnect.com.br/">VZ Connect ↗</a></h3>
-      <p>Site da VZ Connect, com apresentação dos serviços, clientes e cases da empresa.</p>
-      <p><code>React</code> <code>Vite</code></p>
-      <p><a href="https://vzconnect.com.br/">Conhecer o projeto</a></p>
-    </td>
-  </tr>
-</table>
-
-
 <a id="github"></a>
 GitHub
 <p align="center">
