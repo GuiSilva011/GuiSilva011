@@ -1,10 +1,10 @@
 <h1 align="center">Guilherme Silva</h1><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuiSilva011&amp;label=Visitas%20ao%20perfil&amp;color=808080&amp;style=flat-square" alt="Contador de visitas ao perfil de Guilherme Silva" />
-</p>
+
 
 <p align="center">Freelancer · Desenvolvimento web e mobile</p>
 
-
+<p align="center">   <img src="https://komarev.com/ghpvc/?username=GuiSilva011&amp;label=Visitas%20ao%20perfil&amp;color=808080&amp;style=flat-square" alt="Contador de visitas ao perfil de Guilherme Silva" />
+</p></p>
 
 <h2 align="center">Sobre mim</h2>
 
