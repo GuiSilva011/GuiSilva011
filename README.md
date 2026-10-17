@@ -3,8 +3,12 @@
 
 <p align="center">Freelancer · Desenvolvimento web e mobile</p>
 
-<p align="center">   <img src="https://komarev.com/ghpvc/?username=GuiSilva011&amp;label=Visitas%20ao%20perfil&amp;color=808080&amp;style=flat-square" alt="Contador de visitas ao perfil de Guilherme Silva" />
-</p></p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=GuiSilva011&amp;label=Visitas&amp;color=555555&amp;style=flat-square&amp;v=2"
+    alt="Contador de visitas"
+  />
+</p>
 
 <h2 align="center">Sobre mim</h2>
 
