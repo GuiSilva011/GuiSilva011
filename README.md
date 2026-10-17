@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=GuiSilva011&amp;label=Visitas&amp;color=555555&amp;style=flat-square&amp;v=2"
+    src="https://visitor-badge.laobi.icu/badge?page_id=GuiSilva011.GuiSilva011&amp;left_text=Visitas&amp;left_color=gray&amp;right_color=black"
     alt="Contador de visitas"
   />
 </p>
